@@ -34,12 +34,14 @@ body {
 }
 
 .video-bg_content {
+  position: static;
   font-family: 'Raleway';
   width: 730px;
   font-weight: 800;
   font-size: 116px;
   text-align: center;
   margin: 0 auto;
+  padding-top: 80px;
 }
 
 
